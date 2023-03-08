@@ -118,6 +118,7 @@
 body{
     display: flex;
     margin: 0px;  
+    overflow-x: hidden;
     flex-direction: column;
     overflow: scroll;
 
