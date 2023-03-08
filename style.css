@@ -151,7 +151,7 @@ body{
 #title{
     position:fixed;
     margin: 0;
-    height: 50vh;
+    height: 42vh;
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -171,23 +171,23 @@ body{
     width: 45vh;
     padding-left: 3vh;
     margin-left: 15vh;
-    height: 10vh;
+    height: 8vh;
     }
 #title-2{
-    height: 10vh;
+    height: 8vh;
     margin: 0;
     width: 120vh;
     padding-left: 3vh;
     margin-left: 15vh;
     }
 #title-3{
-    height: 10vh;
+    height: 8vh;
     margin: 0;
     padding-left: 18vh;
     width: 100vh;
     }
 #title-4{
-    height: 10vh;
+    height: 8vh;
     margin: 0;
     padding-left: 3vh;
     margin-left: 15vh;
@@ -211,7 +211,7 @@ body{
     display: flex;
     height: auto;
     flex-direction: column;
-    margin-top: 49vh;
+    margin-top: 41vh;
 }
 
 #container-3{
