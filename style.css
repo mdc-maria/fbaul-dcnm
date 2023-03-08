@@ -118,7 +118,6 @@
 body{
     display: flex;
     margin: 0px;  
-    overflow-x: hidden;
     flex-direction: column;
     overflow: scroll;
 
@@ -151,7 +150,7 @@ body{
 #title{
     position:fixed;
     margin: 0;
-    height: auto;
+    height: 50vh;
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -171,23 +170,23 @@ body{
     width: 45vh;
     padding-left: 3vh;
     margin-left: 15vh;
-    height: auto;
+    height: 10vh;
     }
 #title-2{
-    height: auto;
+    height: 10vh;
     margin: 0;
     width: 120vh;
     padding-left: 3vh;
     margin-left: 15vh;
     }
 #title-3{
-    height: auto;
+    height: 10vh;
     margin: 0;
     padding-left: 18vh;
     width: 100vh;
     }
 #title-4{
-    height: auto;
+    height: 10vh;
     margin: 0;
     padding-left: 3vh;
     margin-left: 15vh;
@@ -207,11 +206,11 @@ body{
 #main-container{
     width: 100%;
     position: relative;
+    overflow:scroll;
     display: flex;
-    margin-top: 34vh;
     height: auto;
     flex-direction: column;
-    
+    margin-top: 50vh;
 }
 
 #container-3{
