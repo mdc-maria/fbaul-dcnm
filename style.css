@@ -120,6 +120,7 @@ body{
     margin: 0px;  
     flex-direction: column;
     overflow: scroll;
+    overflow-x: hidden;
 
     
 }
@@ -206,11 +207,11 @@ body{
 #main-container{
     width: 100%;
     position: relative;
-    overflow:scroll;
+    overflow:hidden;
     display: flex;
     height: auto;
     flex-direction: column;
-    margin-top: 50vh;
+    margin-top: 49vh;
 }
 
 #container-3{
