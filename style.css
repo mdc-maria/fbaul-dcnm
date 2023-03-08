@@ -206,7 +206,6 @@ body{
 #main-container{
     width: 100%;
     position: relative;
-    overflow:scroll;
     display: flex;
     height: auto;
     flex-direction: column;
